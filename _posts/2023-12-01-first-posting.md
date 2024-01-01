@@ -3,7 +3,7 @@ title: "First post of Grumpytronics"
 # Table of contents - shown in right side
 toc: true
 toc_label: "On this page"
-toc_icon: "cog"
+toc_icon: "file-alt"
 toc_sticky: true
 categories:
   -  blog
